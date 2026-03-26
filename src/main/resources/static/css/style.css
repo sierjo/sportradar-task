@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+}
+
+nav {
+    background: #333;
+    padding: 10px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+}
+
+.winner {
+    font-weight: bold;
+    color: green;
+}
