@@ -30,6 +30,7 @@ It allows users to view and create sports events, with data stored in a structur
 
 ## 📁 Project Layout
 
+```
 sportradar-task/
 │
 ├── src/
@@ -67,7 +68,7 @@ sportradar-task/
 ├── pom.xml
 ├── README.md
 └── .gitignore
-
+```
 —-
 ## ⚙️ Tech Stack
 
